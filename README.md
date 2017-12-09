@@ -11,14 +11,23 @@ After running, you can select output options in the terminal. The program will o
 Here is the format for an entry in the input file (any line without information can be substituted with `na`):
 
 `Name of Gallery`
+
 `Street Address`
+
 `City, Province`
+
 `Postal Code`
+
 `Phone number`
+
 `Email`
+
 `Website`
+
 `Fax`
+
 `Human contact name`
+
 `Type of Gallery`
 
 # Web scraping?
