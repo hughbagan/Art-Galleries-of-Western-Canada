@@ -10,18 +10,16 @@ After running, you can select output options in the terminal. The program will o
 
 Here is the format for an entry in the input file (any line without information can be substituted with `na`):
 
-`
-Name of Gallery
-Street Address
-City, Province
-Postal Code
-Phone number
-Email
-Website
-Fax
-Human contact name
-Type of Gallery
-`
+`Name of Gallery`
+`Street Address`
+`City, Province`
+`Postal Code`
+`Phone number`
+`Email`
+`Website`
+`Fax`
+`Human contact name`
+`Type of Gallery`
 
 # Web scraping?
 A sample input file "abgalleries.txt" is provided, which contains information on Albertan art galleries (obtained from http://www.gallerieswest.ca/). I originally wanted the program to scrape that website for galleries -- that way I would not have to manually update any input text files for accuracy. Unfortunately, I could not get my web-spider version of the program to get past the pagination on gallerieswest.ca. Look into the ../scraper directory of this repo to see how far I got.
